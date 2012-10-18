@@ -1,0 +1,7 @@
+{
+  "name": "rivets",
+  "version": "0.3.11",
+  "description": "Declarative data binding facility.",
+  "repo": "mikeric/rivets",
+  "scripts": ["index.js", "lib/rivets.js"]
+}
